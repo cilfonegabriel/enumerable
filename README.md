@@ -52,8 +52,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Simple to use**
-- **Can decode single character or a word or a line**
+- **Test a series of ruby methods**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,15 +73,15 @@ Clone this repository to your desired folder:
 
 
 ```cd my-folder   
-    git clone git@github.com:cilfonegabriel/morse-message.git
-    cd morse_code
+    git clone https://github.com/cilfonegabriel/enumerable.git
+    cd enumerable
 ```
 
 ### Usage
 
 To run the project use the following commands:
 ```
-ruby morse.rb
+ruby mylist.rb
 ```
 
 <!-- AUTHORS -->
